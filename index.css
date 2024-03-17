@@ -1,0 +1,30 @@
+.login{
+    background-image: url(./icons/login\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 20px;
+}
+.password{
+    background-image: url(./icons/password.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 20px;
+    
+}
+div{
+    background-color: aquamarine;
+    text-align: center;
+    margin-left: 250px;
+height: 180px;
+width: 400px;
+   
+}
+button{
+    height: 40px;
+    width: 100px;
+    font-weight: 900;
+    
+}
+p{
+    font-weight: 600px;
+}
